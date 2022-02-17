@@ -2,7 +2,7 @@ body {
     margin: 0px;
 }
 
-.encabezado {
+.nav-item {
     color: black;
     background-color: #34ad75;
     font-family: 'Lora', serif;
@@ -10,7 +10,7 @@ body {
     display: inline-block;
     padding: 15px;
     position: relative;
-    left: 630px;
+    right: -205px;
 }
 
 .nombre {
@@ -98,6 +98,7 @@ background: var(--linkedin);
     height: 250px;
     width: 3000px;
 }
+
 
 #main {
 }
