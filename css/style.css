@@ -13,6 +13,15 @@ body {
     right: -205px;
 }
 
+.form-control{ 
+width: 50%;
+}
+
+.form-control2{ 
+    width: 100%;
+    height: 500px;
+    }
+
 .nombre {
     color: black;
     font-family: 'Lora', serif;
